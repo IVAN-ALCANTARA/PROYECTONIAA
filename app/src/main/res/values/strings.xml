@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">PROYECTONIAA</string>
+    <string name="materia">INTRODUCCION A DISPOSITIVOS MOVILES</string>
+    <string name="nombre">ALCANTARA AGUILAR NOE IVAN</string>
+    <string name="titulo1">FORD PERFORMANCE</string>
+    <string name="titulomenu">MENU PRINCIPAL</string>
+    <string name="grupo">7S11</string>
+    <string name="escuela">TESOEM</string>
+    <string name="TITULO2">FORD PERFORMANCE</string>
+    <string name="texto"> ES LA LINEA DE AUTOS DE ALTO DESEMPEÑO  DE FORD.
+                            LOS VEHICULOS DE ALTAS PRESTACIONES DE FORD HAN
+                            SIDO CREADOS POR LOS DEPARTAMENTOS TEAM RS, FORD SVT
+                            Y FORD RACING. TRES LABORATORIOS DE IDEAS, INNOVACION Y DEPORTIVIDAD
+                            CON UN UNICO FIN: CREAR COCHES DEPORTIVOS, ASI COMO
+                            TODO LO QUE RODEA A ESTE TIPO DE MAQUINAS.</string>
+    <string name="FIESTAST">FIESTA ST</string>
+    <string name="FIESTATEXTO">DIVERTIDO, ATRACTIVO Y CON UNA FEROZ ACTITUD, ASI ES FIESTA ST,
+                                EL COMPACTO INSUPERABLE DE LA FAMILIA FORD PERFORMANCE.
+                                EQUIPADO CON MOTOR ECOBOOST GTDI DE 197HP QUE ENTREGA LA POTENCIA
+                                Y EFICIENCIA QUE NECESITAS PARA RETAR A CUALQUIERA.</string>
+    <string name="tituloedge">EDGE ST</string>
+    <string name="textooedge">LA PRIMERA CAMIONETA SUV DE FORD PERFORMANCE. MANEJALA Y PRUEBA EL GRAN
+                                DESEMPEÑO DE SU PODEROSO MOTOR EXOBOOST WIN-TURBO V6, 2.7L DE 355HP
+                                Y S80LB/PIE DE TORQUE.</string>
+    <string name="tituloraptor">FORD RAPTOR</string>
+    <string name="textoraptor">IMPONENTE DESDE CUALQUIER ANGULO, ASI ES FORD RAPTOR, LA CAMIONETA PICK UP
+                                DE FORD PERFORMANCE. CREADA PARA SUPERAR LOS LIMITES, ESTA EQUIPADA CON UN
+                                PODEROSO MOTOR ECOBOOST 3.5L DE 450 HP QUE ENTREGA LA POTENCIA NECESARIA PARA
+                                VENCER CUALQUIER TERRENO.</string>
+    <string name="tituloshelby">SHELBY GT 350</string>
+    <string name="textoshelby">SUPERA LAS EXPECTATIVAS CON FORD SHELBY GT 350: EL AUTO DEPORTIVO ICONO DEL MUSCLE CAR AMERICANO.
+                                NACIDO Y FORJADO EN LA PISTA, ESTE IMPONENTE VEHICULO MONTA UN MOTOR 5.2L 4V TiVCT V8 CON 526HP
+                                QUE ENTREGA EL PODER SUFICIENTE PARA INTIMIDAR A CUALQUIER RETADOR.</string>
+    <string name="titulogt">FORD GT</string>
+    <string name="textogt">Nunca habías visto algo así. Ford GT: el Superdeportivo de Ford diseñado
+                            para entregar el más alto desempeño en carretera y en pista. Equipado con una estructura
+                            ligera de Fibra de Carbono, un exterior de
+                            Máxima Aerodinámica y un Poderoso Motor Turbo EcoBoost de 3.5L V6
+                            capaz de producir más de 600HP, tiene lo necesario para entregar el Manejo</string>
+
+    <string name="desarrollado">DESARROLLADO POR:</string>
+    <string name="nombre2">Alcántara Aguilar Noé Ivan</string>
+    <string name="Escuela">TESOEM</string>
+    <string name="carrera">CARRERA:</string>
+    <string name="isc">INGENIERIA EN SISTEMAS COMPUTACIONALES</string>
+    <string name="correo">CORREO: versa.oner@live.com</string>
+    <string name="tel">TEL: 5530056289</string>
+    <string name="contacto">CONTACTO:</string>
+    <string name="focus">FOCUS RS</string>
+    <string name="focustexto">Motor EcoBoost® con un Twin Scoll Turbo de 2.3L GTDI con
+                                350 hp y 350 lb-pie, doble árbol de levas (DOCH) independiente variable (Ti-VCT)
+                                con pistones del alta resistencia y recubrimiento de baja fricción para lograr
+                                una compresion de 9.5:1 y hasta 20 psi de boost disponible</string>
+
+</resources>
